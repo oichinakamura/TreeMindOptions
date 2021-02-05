@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TreeMindOptionSK", "TreeMindOptionSK\TreeMindOptionSK.csproj", "{031992E2-2279-4DCD-A92F-B61369B56F66}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSAnalyzer", "CSAnalyzer\CSAnalyzer.csproj", "{2D688956-097D-43F0-AD14-AA0C04105D31}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{031992E2-2279-4DCD-A92F-B61369B56F66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{031992E2-2279-4DCD-A92F-B61369B56F66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{031992E2-2279-4DCD-A92F-B61369B56F66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{031992E2-2279-4DCD-A92F-B61369B56F66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D688956-097D-43F0-AD14-AA0C04105D31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D688956-097D-43F0-AD14-AA0C04105D31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D688956-097D-43F0-AD14-AA0C04105D31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D688956-097D-43F0-AD14-AA0C04105D31}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8D253090-4BA9-48D2-9E8E-C50F9D2B8D71}
+	EndGlobalSection
+EndGlobal
